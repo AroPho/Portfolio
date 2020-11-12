@@ -1,0 +1,30 @@
+{
+  "name": "Website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AroPho/Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AroPho/Website/issues"
+  },
+  "homepage": "https://github.com/AroPho/Website#readme",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "description": ""
+}
